@@ -13,9 +13,9 @@ As part of the codebasics september month resume challenge, I have worked on thi
 
 
 
+Task List
+---------------------------------
 
-
-Task List:
 
 As a data analyst  with provided sample data and a mock-up dashboard, working on the following tasks.
 
@@ -24,23 +24,29 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 
-Provided Mock-up Dashboard:
-
+Provided Mock-up Dashboard
+-------------------------------------------------
 
 ![mock up dashboard_atliq grands](https://github.com/trikona-nagaraj/AtliQ-Grands-Revenue-Insights/assets/78613343/1549ee63-3197-4940-b390-e498eae87881)
 
 
-Data Model:
+Data Model
+------------------------------
+
 
 ![image](https://github.com/trikona-nagaraj/AtliQ-Grands-Revenue-Insights/assets/78613343/0daf69bf-4fb0-4c07-b61d-37c6e0ee106a)
 
 
 Overall Analysis View
+---------------------------------
+
 
 ![image](https://github.com/trikona-nagaraj/AtliQ-Grands-Revenue-Insights/assets/78613343/f69c41bd-c17b-43f0-ae53-b5f62959fc69)
 
 
-Monthly Analysis View
+Key Insights Derived 
+-------------------------------------
+
 
 
 Learnt things from this Project
