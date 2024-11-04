@@ -1,4 +1,4 @@
- # AtliQ-Grands-Revenue-Insights
+ # PBI Dashboard for Hospitality domain - AtliQ-Grands-Revenue-Insights
 
 Link to Dashboard:  [https://www.novypro.com/project/atliq-grands-revenue-insights]
 
